@@ -1,5 +1,4 @@
 # HackathonByteMe
-App Gallery:
 <img src="https://github.com/user-attachments/assets/6a8cf238-08b9-45a2-a2f1-bfa06130e2a9" alt="HackathonByteMe" width="300"/>
 <img src="https://github.com/user-attachments/assets/bd13a1e8-391b-43ad-8108-3cfb85787c64" alt="HackathonByteMe" width="300"/>
 <img src="https://github.com/user-attachments/assets/35510174-1c83-4bdd-8c64-95fdd9c6fcc6" alt="HackathonByteMe" width="300"/>
